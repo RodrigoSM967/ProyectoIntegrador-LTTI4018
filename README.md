@@ -42,3 +42,4 @@ Se aceptan sugerencias, mejoras y retroalimentación constructiva.
 >>>>>>> develop
 
 test Travis desde develop
+Ajuste mínimo para disparar Travis CI
