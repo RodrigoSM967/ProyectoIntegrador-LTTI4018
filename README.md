@@ -1,5 +1,6 @@
 # ProyectoIntegrador-LTTI4018
 
+<<<<<<< HEAD
 Este proyecto forma parte del curso **LTTI4018** y tiene como objetivo aplicar los conocimientos adquiridos en el desarrollo de aplicaciones web utilizando tecnologías como **Java**, **Spring**, **Jersey**, y herramientas como **Maven**, **JUnit**, entre otras.
 
 ## 🎯 Objetivos
@@ -30,4 +31,14 @@ Este repositorio se irá actualizando conforme avance el desarrollo del proyecto
 Se aceptan sugerencias, mejoras y retroalimentación constructiva.
 
 > Prueba de integración continua con Travis CI. 🛠️
+=======
 
+
+
+
+> Segunda prueba de activación Travis CI 🚀
+
+
+>>>>>>> develop
+
+test Travis desde develop
