@@ -16,3 +16,8 @@
 ## Endpoint /usuarios
 - Devuelve lista de usuarios en formato JSON
 - Clase: 
+
+## Endpoint POST /usuarios
+- Permite agregar usuarios vía JSON
+- Clase: 
+- Prueba: 
