@@ -46,3 +46,6 @@ Ajuste mínimo para disparar Travis CI
 
 echo "🔄 Commit técnico para activar Travis CI" >> README.md
 
+
+## Pruebas
+- : Verifica respuesta del endpoint 
