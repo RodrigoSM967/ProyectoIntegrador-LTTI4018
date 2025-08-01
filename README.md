@@ -46,3 +46,15 @@ Ajuste mínimo para disparar Travis CI
 
 echo "🔄 Commit técnico para activar Travis CI" >> README.md
 
+
+## CI/CD
+- Travis CI configurado para ejecutar pruebas con cada commit y PR.
+- Archivo: 
+
+## Endpoint /items
+- Devuelve lista de objetos Item en formato JSON
+- Clase: 
+
+## Endpoint /items
+- Devuelve lista de objetos Item en formato JSON
+- Clase: 
