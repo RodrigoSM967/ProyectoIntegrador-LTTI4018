@@ -43,3 +43,6 @@ Se aceptan sugerencias, mejoras y retroalimentación constructiva.
 
 test Travis desde develop
 Ajuste mínimo para disparar Travis CI
+
+echo "🔄 Commit técnico para activar Travis CI" >> README.md
+
