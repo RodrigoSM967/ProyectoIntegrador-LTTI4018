@@ -46,3 +46,16 @@ Ajuste mínimo para disparar Travis CI
 
 echo "🔄 Commit técnico para activar Travis CI" >> README.md
 
+
+## CI/CD
+- Travis CI configurado para ejecutar pruebas con cada commit y PR.
+- Archivo: 
+
+## Endpoint /usuarios
+- Devuelve lista de usuarios en formato JSON
+- Clase: 
+
+## Endpoint POST /usuarios
+- Permite agregar usuarios vía JSON
+- Clase: 
+- Prueba: 
