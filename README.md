@@ -46,3 +46,7 @@ Ajuste mínimo para disparar Travis CI
 
 echo "🔄 Commit técnico para activar Travis CI" >> README.md
 
+
+## Servicios REST
+- Endpoint : Devuelve saludo desde Jersey
+- Clase: 
