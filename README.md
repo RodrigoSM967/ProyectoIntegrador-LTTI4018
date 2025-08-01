@@ -8,3 +8,7 @@
 
 
 
+
+## CI/CD
+- Travis CI configurado para ejecutar pruebas con cada commit y PR.
+- Archivo: 
