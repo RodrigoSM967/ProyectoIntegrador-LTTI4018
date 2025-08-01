@@ -12,3 +12,7 @@
 ## CI/CD
 - Travis CI configurado para ejecutar pruebas con cada commit y PR.
 - Archivo: 
+
+## Endpoint /usuarios
+- Devuelve lista de usuarios en formato JSON
+- Clase: 
