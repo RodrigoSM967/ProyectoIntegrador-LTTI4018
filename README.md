@@ -46,3 +46,4 @@ Ajuste mínimo para disparar Travis CI
 
 echo "🔄 Commit técnico para activar Travis CI" >> README.md
 
+Configuración de Travis CI completada ✅
